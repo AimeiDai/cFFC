@@ -1,0 +1,13 @@
+Drosophilid	Pan-drosophilid
+pre-Bilateria	Bilateria
+pre-Bilateria	Eukaryota
+pre-Bilateria	Cellular_Organisms
+pre-Drosophilid	Diptera
+pre-Bilateria	Old multi-gene family, likely CellOrg/Euk/Bil, assigned to Bilateria by ProteinHistorian
+pre-Bilateria	Old multi-gene family, likely CellOrg/Euk/Bil, assigned to Cellular_Organisms by ProteinHistorian
+Drosophilid	mel-group
+pre-Bilateria	Old multi-gene family, likely CellOrg/Euk/Bil, assigned to Eukaryota by ProteinHistorian
+Drosophilid	mel-subgroup
+Drosophilid	mel-only
+Drosophilid	mel-complex
+pre-Drosophilid	Dipteran
